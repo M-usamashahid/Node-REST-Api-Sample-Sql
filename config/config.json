@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sql697294",
+    "password": "vM4%zS3!",
+    "database": "sql697294",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "db_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql697294",
+    "password": "vM4%zS3!",
+    "database": "sql697294",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "POC",
+  "version": "0.0.1",
+  "private": true,
+
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "errorhandler": "~1.0.0",
+    "express": "4.1.1",
+    "method-override": "~1.0.0",
+    "morgan": "~1.0.0",
+    "static-favicon": "~1.0.0",
+    "mysql": "*",
+    "sequelize": "*",
+    "sequelize-cli": "*"
+  },
+  "devDependencies": {
+    "bluebird": "*",
+    "expect.js": "*",
+    "mocha": "*",
+    "supertest": "*"
+  }
+}
